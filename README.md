@@ -1,4 +1,4 @@
-![game](https://github.com/jonathansilva/casino-game-concept/blob/master/screenshots/game.png?raw=true)
+![game](screenshots/game.png)
 
 ## Como jogar
 
@@ -95,7 +95,7 @@ O console exibirá informações sobre cada sorteio e eventuais erros
 
 *Vitória*
 
-![gain](https://github.com/jonathansilva/casino-game-concept/blob/master/screenshots/console%20-%20gain.png?raw=true)
+![gain](screenshots/console%20-%20gain.png)
 
 5 números pertencentes ao Player ( de um total de 15 ) foram previamente reservados e inseridos numa posição aleatória do resultado
 
@@ -105,7 +105,7 @@ Obs: O prêmio desta aposta foi de R$ 1,80 + bônus de R$ 50,00
 
 *Derrota*
 
-![loss](https://github.com/jonathansilva/casino-game-concept/blob/master/screenshots/console%20-%20loss.png?raw=true)
+![loss](screenshots/console%20-%20loss.png)
 
 ## Créditos
 
